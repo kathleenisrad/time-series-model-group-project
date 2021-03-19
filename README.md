@@ -1,4 +1,4 @@
-# Project-5: SNOTEL Water Level Analysis
+# SNOTEL Water Level Analysis
 
 ## Group members contributions:
 Grant Hicks, Samuel Yeager, and myself.  
