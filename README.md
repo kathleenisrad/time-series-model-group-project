@@ -2,7 +2,8 @@
 
 ## Group members contributions:
 Grant Hicks, Samuel Yeager, and myself.  
-We split up the 24 basins so that we each collected, cleaned, performed EDA, and modeled the data from 8 basins each.  
+Each member collected 10 years worth of SNOTEL data from the Natural Resources Conservation Service website, for a total of 30 years' worth of data.  
+We split up the 24 basins so that we each cleaned, performed EDA, and modeled the data from 8 basins each.  
 We combined our models into the SNOTEL-Project.ipynb Jupyter Notebook. Our individual cleaning and modeling notebooks can be found in the data-cleaning-notebooks folder and modeling-notebooks folder, respectively.  
 
 ## Problem Statement
