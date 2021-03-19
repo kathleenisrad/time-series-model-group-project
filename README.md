@@ -1,5 +1,10 @@
 # Project-5: SNOTEL Water Level Analysis
 
+## Group members:
+Grant Hicks, Samuel Yeager, and myself.  
+We split up the 24 basins so that we each collected, cleaned, performed EDA, and modeled the data from 8 basins each.  
+We combined our model into the SNOTEL-Project.ipynb Jupyter Notebook. Our individual cleaning and modeling notebooks can be found in the data-cleaning-notebooks folder and modeling-notebooks folder, respectively.  
+
 ## Problem Statement
 The National Resources Conservation Service keeps track of precipitation levels in water basins across the Western United States using an automated system known as SNOTEL. This information is critical for resource management and provides insight on the climate status in the regions where the data is gathered. Understanding what areas may be experiencing abnormalities can be key  for planning resource management operations. Our goal is to determine if we can produce a model to predict precipitation levels in a water basin using data gathered from NRCS SNOTEL sites. 
 
