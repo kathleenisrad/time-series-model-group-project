@@ -1,6 +1,6 @@
 # Project-5: SNOTEL Water Level Analysis
 
-## Group members:
+## Group members contributions:
 Grant Hicks, Samuel Yeager, and myself.  
 We split up the 24 basins so that we each collected, cleaned, performed EDA, and modeled the data from 8 basins each.  
 We combined our models into the SNOTEL-Project.ipynb Jupyter Notebook. Our individual cleaning and modeling notebooks can be found in the data-cleaning-notebooks folder and modeling-notebooks folder, respectively.  
